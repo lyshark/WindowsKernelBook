@@ -14,3 +14,9 @@ cn_windows_10_consumer_editions_version_1903_x64_dvd_8f05241d.iso
 
 ed2k://|file|cn_windows_10_consumer_editions_version_1903_x64_dvd_8f05241d.iso|4905476096|F28FDC23DA34D55BA466BFD6E91DD311|/
 
+------------------------------------------------------------------------------------
+Windows Driver Kit 8.1
+------------------------------------------------------------------------------------
+
+https://learn.microsoft.com/zh-cn/windows-hardware/drivers/download-the-wdk
+https://www.pcsoft.com.cn/soft/212573.html
