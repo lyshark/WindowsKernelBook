@@ -6,7 +6,7 @@
 
 ### 信息清单
 
- - 原始素材来源：互联网公开公共资源(hacker_source.png)
- - 二次创作文件：lyshark-DerivativeWork-（CC BY-NC）.png
+ - 原始素材来源：互联网公开公共资源(hacker_source)
+ - 二次创作文件：lyshark-DerivativeWork-（CC BY-NC）、hacker_frosted（CC BY-NC）
  - 二次创作设计师：刘思宇
  - 图标整体视觉著作权人：刘思宇
